@@ -1,0 +1,869 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\css\\MyMainLayout.css",
+      "PackagePath": "staticwebassets\\css\\MyMainLayout.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Alhambra 3F-CTE1.jpg",
+      "PackagePath": "staticwebassets\\images\\Alhambra 3F-CTE1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Cordoba C1M.jpg",
+      "PackagePath": "staticwebassets\\images\\Cordoba C1M.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\D'angelico Single Cut Premier.jpg",
+      "PackagePath": "staticwebassets\\images\\D'angelico Single Cut Premier.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Epiphone Toby Deluxe Bas.jpg",
+      "PackagePath": "staticwebassets\\images\\Epiphone Toby Deluxe Bas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Fender American Performer Stratocaster.jpg",
+      "PackagePath": "staticwebassets\\images\\Fender American Performer Stratocaster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Fender Americano Pro Bass Rosewood.jpg",
+      "PackagePath": "staticwebassets\\images\\Fender Americano Pro Bass Rosewood.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Fender CD-60 Dread V3-DS.jpg",
+      "PackagePath": "staticwebassets\\images\\Fender CD-60 Dread V3-DS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Fender Precision Bass White.jpg",
+      "PackagePath": "staticwebassets\\images\\Fender Precision Bass White.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Fender Satin Surf Green Stratocaster.jpg",
+      "PackagePath": "staticwebassets\\images\\Fender Satin Surf Green Stratocaster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Gibson Acoustic J-45.jpg",
+      "PackagePath": "staticwebassets\\images\\Gibson Acoustic J-45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Gibson Les Paul Standart.jpg",
+      "PackagePath": "staticwebassets\\images\\Gibson Les Paul Standart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Ibanez Aeg50-Ibh.jpg",
+      "PackagePath": "staticwebassets\\images\\Ibanez Aeg50-Ibh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Ibanez Btb20Th-5 String Bass.jpg",
+      "PackagePath": "staticwebassets\\images\\Ibanez Btb20Th-5 String Bass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Ibanez GSR200B-WNF Walnut Flat.jpg",
+      "PackagePath": "staticwebassets\\images\\Ibanez GSR200B-WNF Walnut Flat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Ibanez Grx70QA- Transparent Black Sunburst.jpg",
+      "PackagePath": "staticwebassets\\images\\Ibanez Grx70QA- Transparent Black Sunburst.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Ibanez RG370 Blue Moon Burst.jpg",
+      "PackagePath": "staticwebassets\\images\\Ibanez RG370 Blue Moon Burst.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Ibanez SR300E-PW Pearl White Bass.jpg",
+      "PackagePath": "staticwebassets\\images\\Ibanez SR300E-PW Pearl White Bass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Ibanez SRMD200 Bass.jpg",
+      "PackagePath": "staticwebassets\\images\\Ibanez SRMD200 Bass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Ibanez Sr1605B-5 String Bass.jpg",
+      "PackagePath": "staticwebassets\\images\\Ibanez Sr1605B-5 String Bass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Ibanez TMB30 MGR Mint Green.jpg",
+      "PackagePath": "staticwebassets\\images\\Ibanez TMB30 MGR Mint Green.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Jackson X-Series Rrx24.jpg",
+      "PackagePath": "staticwebassets\\images\\Jackson X-Series Rrx24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Jackson X-Series Transparent Green.jpg",
+      "PackagePath": "staticwebassets\\images\\Jackson X-Series Transparent Green.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Ovation CS24-1 Sunburst.jpg",
+      "PackagePath": "staticwebassets\\images\\Ovation CS24-1 Sunburst.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\PRS SE Angelus Standart.jpg",
+      "PackagePath": "staticwebassets\\images\\PRS SE Angelus Standart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\PRS SE Custom-24.jpg",
+      "PackagePath": "staticwebassets\\images\\PRS SE Custom-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\PRS SE Standart-24.jpg",
+      "PackagePath": "staticwebassets\\images\\PRS SE Standart-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\PRS SE-T40.jpg",
+      "PackagePath": "staticwebassets\\images\\PRS SE-T40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\SX SPJ-ASH-4 Bass.jpg",
+      "PackagePath": "staticwebassets\\images\\SX SPJ-ASH-4 Bass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\SX Vintage Series Bass.jpg",
+      "PackagePath": "staticwebassets\\images\\SX Vintage Series Bass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Squier Pj-Mn-Bpg Black.jpg",
+      "PackagePath": "staticwebassets\\images\\Squier Pj-Mn-Bpg Black.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Takamine GD15E.jpg",
+      "PackagePath": "staticwebassets\\images\\Takamine GD15E.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Takamine Gn75Ce-Wr.jpg",
+      "PackagePath": "staticwebassets\\images\\Takamine Gn75Ce-Wr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Taylor 214ce-KDLX.jpg",
+      "PackagePath": "staticwebassets\\images\\Taylor 214ce-KDLX.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Washburn WP55NS Parlor P55.jpg",
+      "PackagePath": "staticwebassets\\images\\Washburn WP55NS Parlor P55.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\Yamaha RS320 Yellow.jpg",
+      "PackagePath": "staticwebassets\\images\\Yamaha RS320 Yellow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\ad.jpg",
+      "PackagePath": "staticwebassets\\images\\ad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\ad2.jpg",
+      "PackagePath": "staticwebassets\\images\\ad2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\bcrich.PNG",
+      "PackagePath": "staticwebassets\\images\\bcrich.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\blackfriday2.jpg",
+      "PackagePath": "staticwebassets\\images\\blackfriday2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\epiphone.PNG",
+      "PackagePath": "staticwebassets\\images\\epiphone.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\fender.PNG",
+      "PackagePath": "staticwebassets\\images\\fender.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\fendo.png",
+      "PackagePath": "staticwebassets\\images\\fendo.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\gibson.jpg",
+      "PackagePath": "staticwebassets\\images\\gibson.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\gibsonlogo.svg",
+      "PackagePath": "staticwebassets\\images\\gibsonlogo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\harley.png",
+      "PackagePath": "staticwebassets\\images\\harley.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\ibanez.PNG",
+      "PackagePath": "staticwebassets\\images\\ibanez.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\jackson.PNG",
+      "PackagePath": "staticwebassets\\images\\jackson.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\kieselseries.png",
+      "PackagePath": "staticwebassets\\images\\kieselseries.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\lespaul.jpg",
+      "PackagePath": "staticwebassets\\images\\lespaul.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\images\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\logoson.png",
+      "PackagePath": "staticwebassets\\images\\logoson.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\maxresdefault.jpg",
+      "PackagePath": "staticwebassets\\images\\maxresdefault.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\prs.PNG",
+      "PackagePath": "staticwebassets\\images\\prs.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\shecter.PNG",
+      "PackagePath": "staticwebassets\\images\\shecter.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\shop.png",
+      "PackagePath": "staticwebassets\\images\\shop.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\shopping.png",
+      "PackagePath": "staticwebassets\\images\\shopping.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\starry.png",
+      "PackagePath": "staticwebassets\\images\\starry.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\yamaha-112v-.jpg",
+      "PackagePath": "staticwebassets\\images\\yamaha-112v-.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\images\\yamaha.PNG",
+      "PackagePath": "staticwebassets\\images\\yamaha.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\guitars\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.guitars.props",
+      "PackagePath": "build\\guitars.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.guitars.props",
+      "PackagePath": "buildMultiTargeting\\guitars.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.guitars.props",
+      "PackagePath": "buildTransitive\\guitars.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.guitars.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
